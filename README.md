@@ -52,7 +52,6 @@ Self-check stress test: 15 real NYC listings with a planted error (5 wrong hours
 - nycResourcesDb.ts: loads and ranks the NYC Open Data listings.
 - eval/: standalone Python eval (run_eval.py, prompts.py, test_cases.csv, resources.csv, Colab notebook).
 
-Full history of the eval work: https://github.com/romario-joseph/gemini4-5sigma-care-agents
 
 ## Run
 
