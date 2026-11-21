@@ -32,3 +32,5 @@ Photos and recordings go in `eval/media/` named by case, for example `C02.jpg` o
 | Sourced referrals | Share with a source URL |
 | Working links | Share of source URLs that load |
 | Latency | Seconds per case |
+
+Last updated Nov 21 2026 by Romario Joseph.
